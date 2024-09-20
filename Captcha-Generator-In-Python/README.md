@@ -1,0 +1,1 @@
+We have generated Simple Captcha using Python

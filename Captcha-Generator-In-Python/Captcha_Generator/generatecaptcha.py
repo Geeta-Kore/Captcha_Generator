@@ -99,7 +99,7 @@ if __name__ == "__main__":
     # Defining the path for the reload button image
     # and using it to add the reload button in the
     # GUI window
-    reload_img = ImageTk.PhotoImage(Image.open("D:/MyCaptchaGenerator/Captcha-Generator-In-Python/Captcha_Generator/refresh.png").resize((32, 32), Image.LANCZOS))
+    reload_img = ImageTk.PhotoImage(Image.open("D:/MyCaptchaGenerator/Captcha-Generator-In-Python-With-Source-Code-Free-main/Captcha_Generator/refresh.png").resize((32, 32), Image.LANCZOS))
 
     reload_button = Button(image=reload_img, command=lambda: createImage(1))
     reload_button.grid(row=2, column=1, pady=10)
