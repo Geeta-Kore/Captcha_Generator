@@ -9,3 +9,7 @@ This is a Python-based CAPTCHA generator that creates CAPTCHA images using rando
 - Users can reload a new CAPTCHA by clicking the reload button.
 - GUI created with `Tkinter` that handles the user input and CAPTCHA display.
 - Submit button or "Enter" key can be used to verify user input.
+
+## Output
+![WhatsApp Image 2024-09-21 at 10 21 00_d900d054](https://github.com/user-attachments/assets/f428a75b-1973-4097-b9be-a5c028638517)
+
